@@ -26,7 +26,7 @@
 - 💡 Passionate about building cool projects & solving problems
 - 🔐 Certified in **Cybersecurity** (Tech Mahindra Foundation)
 - 🐍 Certified in **Python for Data Science** (Reliance Foundation)
-- 🛡️ **Security Analyst** certificate (120 Hrs - Reliance Foundation)
+- 🛡️ **Security Analyst** certificate (Reliance Foundation)
 - 🤖 **SOAR - AI to be Aware** (Microsoft | NCVET Recognised)
 - ⚡ Fun fact: I turn ☕ into code!
 
