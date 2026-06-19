@@ -1,102 +1,151 @@
-# 👋 Hi, I'm Aman Kumar
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Diploma+Graduate;Job+Seeker+%7C+Learner" alt="Typing SVG" />
-</div>
-
-<p align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontAlignY=35&desc=Diploma%20in%20CSE%20|%20Web%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55" width="100%"/>
+  
   <a href="https://github.com/Kumar2205">
-    <img src="https://img.shields.io/badge/GitHub-Kumar2205-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Building+the+future+with+code;Open+to+work+%7C+Job+Seeker;Turning+%E2%98%95+into+code!" alt="Typing SVG" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  
+  <br/>
+  
+  <a href="https://github.com/Kumar2205">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kumar2205">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Diploma in Computer Science & Engineering**
-- 💼 Actively looking for **Software Developer / IT jobs**
-- 🌱 Currently learning **Web Development & DSA**
-- 💡 Passionate about building cool projects & solving problems
-- 🔐 Certified in **Cybersecurity** (Tech Mahindra Foundation)
-- 🐍 Certified in **Python for Data Science** (Reliance Foundation)
-- 🛡️ **Security Analyst** certificate (Reliance Foundation)
-- 🤖 **SOAR - AI to be Aware** (Microsoft | NCVET Recognised)
-- ⚡ Fun fact: I turn ☕ into code!
+```yaml
+name: Aman Kumar
+from: India
+education: Diploma in Computer Science & Engineering
+college: Dr. C.V. Raman University, Vaishali (Bihar)
+batch: 2023 - 2026
+
+currently:
+  learning: Web Development & DSA
+  looking_for: Software Developer / IT Job
+
+certifications:
+  - Cybersecurity (Tech Mahindra Foundation)
+  - Python for Data Science (Reliance Foundation)
+  - Security Analyst Programme (Reliance Foundation)
+  - SOAR - AI to be Aware (Microsoft | NCVET)
+
+fun_fact: "I turn ☕ into code!"
+```
+
+---
+
+## 🛠️ Skills & Technologies
+
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Programming</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,php" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,powershell,nodejs" />
+</p>
+</details>
+
+<details open>
+<summary><b>🔐 Specializations</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20SOAR-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Security-00A859?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+</details>
 
 ---
 
 ## 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Analyst-00A859?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAR%20%26%20AI-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+<div align="center">
 
-| # | Certification | Issued By |
-|---|--------------|-----------|
-| 1 | 🔐 **Cybersecurity** | **Tech Mahindra Foundation** (via Skill India) |
-| 2 | 🐍 **Python for Data Science** | **Reliance Foundation Skilling Academy** |
-| 3 | 🛡️ **Security Analyst Certificate Programme** | **Reliance Foundation Skilling Academy** |
-| 4 | 🤖 **SOAR - AI to be Aware** | **Microsoft** (Recognised by NCVET) |
+| Certification | Issued By | 
+|--------------|-----------|
+| 🔐 **Cybersecurity** | Tech Mahindra Foundation (Skill India) |
+| 🐍 **Python for Data Science** | Reliance Foundation Skilling Academy |
+| 🛡️ **Security Analyst Programme** | Reliance Foundation Skilling Academy |
+| 🤖 **SOAR - AI to be Aware** | Microsoft (NCVET Recognised) |
 
-> 💡 *All certifications are verified and recognized through Skill India Digital Hub / NCVET.*
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOAR-8B5CF6?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kumar2205&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar2205&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar2205&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛒 [**Intercity Mall**](https://github.com/Kumar2205/intercity-mall) — E-Commerce Review & Recommendation System | Full-featured e-commerce platform with product catalog, live cart, order management, reviews & ratings, and admin dashboard. *(Diploma Major Project - React version)* | React, JSON Server, React Router, CSS |
-| 🤖 **NexusExam AI** | AI-powered online exam proctoring system with face detection, biometric auth, real-time violation detection (tab switch, blur, multiple faces), automated MCQ & descriptive grading, and live admin dashboard. | PHP 8.x, MySQL, Canvas API, MediaDevices API |
-| 📦 **E-Commerce Management System** | Complete e-commerce management solution with product & category CRUD, order lifecycle (pending→delivered), user management, cart system, and responsive admin dashboard. | PHP 8.x, MySQL, Bootstrap 5.3, AJAX |
+<div align="center">
+  <a href="https://github.com/Kumar2205/intercity-mall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kumar2205&repo=intercity-mall&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 [**Intercity Mall**](https://github.com/Kumar2205/intercity-mall) | Full e-commerce platform with product catalog, cart, reviews, checkout & admin dashboard | React, JSON Server |
+| 🤖 **NexusExam AI** | AI proctoring system — face detection, violation alerts, auto-grading | PHP, MySQL, JS |
+| 📦 **E-Commerce Management System** | Product CRUD, order lifecycle, user & admin panels | PHP, MySQL, Bootstrap |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumar2205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar2205&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar2205&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kumar2205&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar2205&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Kumar2205">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -106,17 +155,19 @@
   <a href="https://www.instagram.com/your-instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kumar2205&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</div>
 
-<p align="center">
-  <b>⭐ Thanks for visiting! Let's build something amazing together.</b>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
