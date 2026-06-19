@@ -86,13 +86,11 @@
 
 ## 🚀 Featured Projects
 
-> *(Add your projects here)*
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔧 Project 1 | Short description | Python, JS |
-| 🌐 Project 2 | Short description | HTML, CSS |
-| 📱 Project 3 | Short description | Java, SQL |
+| 🛒 **Intercity Mall** — E-Commerce Review & Recommendation System | Full-featured e-commerce platform with product catalog, AJAX cart, order management, reviews & ratings, recommendation system, and admin dashboard. *(Diploma Major Project)* | PHP 8.x, MySQL, Bootstrap 5.3, GSAP, AJAX |
+| 🤖 **NexusExam AI** | AI-powered online exam proctoring system with face detection, biometric auth, real-time violation detection (tab switch, blur, multiple faces), automated MCQ & descriptive grading, and live admin dashboard. | PHP 8.x, MySQL, Canvas API, MediaDevices API |
+| 📦 **E-Commerce Management System** | Complete e-commerce management solution with product & category CRUD, order lifecycle (pending→delivered), user management, cart system, and responsive admin dashboard. | PHP 8.x, MySQL, Bootstrap 5.3, AJAX |
 
 ---
 
