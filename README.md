@@ -24,7 +24,30 @@
 - 💼 Actively looking for **Software Developer / IT jobs**
 - 🌱 Currently learning **Web Development & DSA**
 - 💡 Passionate about building cool projects & solving problems
+- 🔐 Interest in **Cybersecurity** & **Data Science**
 - ⚡ Fun fact: I turn ☕ into code!
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Analyst-00A859?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Analyst%20(NSDC)-0A66C2?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAR%20%26%20AI-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+
+| # | Certification | Issued By |
+|---|--------------|-----------|
+| 1 | 🔐 Cybersecurity | — |
+| 2 | 🐍 Python for Data Science | — |
+| 3 | 🛡️ Security Analyst Certificate Program | — |
+| 4 | 📘 Security Analyst (NSDC Certified) | NSDC |
+| 5 | 🤖 SOAR - AI to be Aware | — |
+
+> 💡 *Tip: Add issuer names in place of "—" for better credibility on your job profile!*
 
 ---
 
@@ -40,6 +63,9 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF6F00?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAR-8B5CF6?style=for-the-badge&logo=ansible&logoColor=white" />
 </p>
 
 ---
