@@ -41,12 +41,12 @@
   <img src="https://img.shields.io/badge/SOAR%20%26%20AI-8B5CF6?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-| # | Certification | Issued By | Duration |
-|---|--------------|-----------|----------|
-| 1 | 🔐 **Cybersecurity** | **Tech Mahindra Foundation** (via Skill India) | 10 Hrs |
-| 2 | 🐍 **Python for Data Science** | **Reliance Foundation Skilling Academy** | — |
-| 3 | 🛡️ **Security Analyst Certificate Programme** | **Reliance Foundation Skilling Academy** | 120 Hrs |
-| 4 | 🤖 **SOAR - AI to be Aware** | **Microsoft** (Recognised by NCVET) | 20 Hrs |
+| # | Certification | Issued By |
+|---|--------------|-----------|
+| 1 | 🔐 **Cybersecurity** | **Tech Mahindra Foundation** (via Skill India) |
+| 2 | 🐍 **Python for Data Science** | **Reliance Foundation Skilling Academy** |
+| 3 | 🛡️ **Security Analyst Certificate Programme** | **Reliance Foundation Skilling Academy** |
+| 4 | 🤖 **SOAR - AI to be Aware** | **Microsoft** (Recognised by NCVET) |
 
 > 💡 *All certifications are verified and recognized through Skill India Digital Hub / NCVET.*
 
